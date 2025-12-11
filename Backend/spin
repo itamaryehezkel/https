@@ -1,0 +1,2 @@
+#!/bin/sh
+/home/itamar/Workspace/Backend/compile && sudo /home/itamar/Workspace/Backend/itl_server
